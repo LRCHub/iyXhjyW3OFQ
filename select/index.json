@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Love Spiral Tower",
+  "base_artist": "桜内梨子 (CV.逢田梨香子) from Aqours",
+  "createdAt": "2025-12-03T10:44:16.900598Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love Spiral Tower",
+      "artist": "Riko Sakurauchi",
+      "has_synced": true,
+      "path": "select/01_Love_Spiral_Tower_Riko_Sakurauchi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love Spiral Tower",
+      "artist": "Riko Sakurauchi (CV: Rikako Aida) from Aqours",
+      "has_synced": true,
+      "path": "select/02_Love_Spiral_Tower_Riko_Sakurauchi_(CV__Rikako_Aida)_from_Aqours.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love Spiral Tower",
+      "artist": "Riko Sakurauchi(CV.Rikako Aida) from Aqours",
+      "has_synced": true,
+      "path": "select/03_Love_Spiral_Tower_Riko_Sakurauchi(CV.Rikako_Aida)_from_Aqours.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love Spiral Tower",
+      "artist": "桜内梨子 (CV.逢田梨香子) from Aqours",
+      "has_synced": false,
+      "path": "select/pl_01_Love_Spiral_Tower_桜内梨子_(CV.逢田梨香子)_from_Aqours.txt"
+    }
+  ]
+}
